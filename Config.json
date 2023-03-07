@@ -1,7 +1,7 @@
 {
-  "name": "Translate",
-  "identifier": "com.hiraku.popclip.extension.chatgpt-grammar-check",
-  "description": "Send the selected text to ChatGPT and append the response. Hold Shift (⇧) to copy just the response.",
+  "name": "chatgptplus",
+  "identifier": "me.zhaopeng.popclip.extension.chatgptplus",
+  "description": "chatgpt plus",
   "note": "To use this extension you will need an <a href=\"https://platform.openai.com/account/api-keys\">OpenAPI API key</a>",
   "app": {
     "name": "ChatGPT",
